@@ -1,0 +1,4 @@
+$ cat .gitignore
+# exclude R data and history files
+/Users/markloessi/R_programing/.RData
+/Users/markloessi/R_programing/.Rhistory
