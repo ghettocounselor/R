@@ -1,4 +1,5 @@
-
+#matrix operations are about performing calculations with matrix
+#note the process with matrix, like vectors things happen item for item
 #lets look at our data; Games
 Games #it's a matrix
 rownames(Games)

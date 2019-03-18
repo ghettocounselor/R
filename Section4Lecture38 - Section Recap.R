@@ -1,0 +1,1 @@
+#Kirill walked through the sections content as per usual in the recap

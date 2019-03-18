@@ -31,7 +31,7 @@ myplot <- function(rows){
   legend("bottomleft", inset=0.01, legend = Players[rows], col = c(1:4,6), pch=15:18, horiz = F)
 }
 myplot()
-#again that is boring, lets add another parameter
+#again that is boring, lets add another parameter - FINAL VERSION
 myplot <- function(data, rows){
   Data <- data[rows,,drop=F] # we are saying use the rows as the data
   matplot(t(Data),type="b", pch=15:18, col = c(1:4,6))

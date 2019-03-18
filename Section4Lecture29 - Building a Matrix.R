@@ -8,7 +8,7 @@ MinutesPlayed
 ?matrix
 ?cbind
 ?rbind
-#the distinction is how the function loads the data
+#the distinction is how the function loads the data into the columns and rows
 #make a vector
 my.data <- 1:20
 my.data
