@@ -93,3 +93,10 @@ levels(stats$Income.Group)
 
 #find Malta
 stats[stats$Country.Name == "Malta", ]
+
+# notes from the section homework
+# We will start with the country filter and use the Logical 'OR' aka the pipe |
+# operator to select multiple countries:
+filteredstats <- (stats$Country.Name == "Malta") | (stats$Country.Name == "Aruba") | (stats$Country.Name == "Albania")| (stats$Country.Name == "Argentina")
+filteredstats
+

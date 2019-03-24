@@ -1,4 +1,18 @@
+#### section recap ####
+# 1. Grammar of Graphics and GGPlot2
+# 2. Factors in R
+# 3. Aethetics and ggplot()
+# 4. plotting with layers
+# 5. Overriding Aesthetics
+# 6. Mapping vs Setting
+# 7. Histograms and Density Charts
+# 8. Starting Layer Tips
+# 9. Statistical Transformation
+# 10. Using Facets
+# 11. Coordinates
+# 12. Themes
 
+# THIS SECTION BELOW
 
 #-------------------- DATA Layer
 #import data
