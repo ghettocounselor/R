@@ -1,0 +1,372 @@
+2019-04-13 06:41:58: Turning Off Copy/Compare Extended Attributes, as one of file systems does not support it
+2019-04-13 06:41:58: Turning Off Copy Original Filesystem Names option, as one of file systems does not support it
+2019-04-13 06:41:58: -- Analysis Started by User Command
+2019-04-13 06:41:58: L: State file does not exist: /Users/markloessi/R_programing/_gsdata_/_file_state_v4._gs
+2019-04-13 06:41:58: R: State file does not exist: /Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/_gsdata_/_file_state_v4._gs
+2019-04-13 06:41:58: Changes: 360, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 362
+2019-04-13 06:41:58: Left to Right: Copy File: 360 
+2019-04-13 06:41:58: -- Analysis Complete. Time 00:00:00, Speed: Many files/s
+2019-04-13 06:41:58: 
+2019-04-13 06:42:08: == Sync Started by User Command
+2019-04-13 06:42:08: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git'
+2019-04-13 06:42:08: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/branches'
+2019-04-13 06:42:08: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/hooks'
+2019-04-13 06:42:08: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/info'
+2019-04-13 06:42:08: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/logs'
+2019-04-13 06:42:08: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/logs/refs'
+2019-04-13 06:42:08: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/logs/refs/heads'
+2019-04-13 06:42:08: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/logs/refs/remotes'
+2019-04-13 06:42:08: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/logs/refs/remotes/origin'
+2019-04-13 06:42:08: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects'
+2019-04-13 06:42:08: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/01'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/03'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/05'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/08'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/0c'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/10'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/13'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/16'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/18'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/1a'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/1e'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/1f'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/20'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/22'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/23'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/24'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/27'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/2a'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/2b'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/31'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/34'
+2019-04-13 06:42:09: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/3c'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/41'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/44'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/45'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/49'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/4a'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/4b'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/4e'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/50'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/53'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/57'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/58'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/5a'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/5f'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/60'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/63'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/66'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/67'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/68'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/6b'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/71'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/72'
+2019-04-13 06:42:10: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/77'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/78'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/7a'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/7b'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/7e'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/7f'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/86'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/87'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/88'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/8d'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/91'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/92'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/96'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/97'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/99'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/9d'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/a0'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/a4'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/a5'
+2019-04-13 06:42:11: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/a6'
+2019-04-13 06:42:12: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/a8'
+2019-04-13 06:42:12: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/a9'
+2019-04-13 06:42:12: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/ab'
+2019-04-13 06:42:12: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/af'
+2019-04-13 06:42:12: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/b0'
+2019-04-13 06:42:12: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/b3'
+2019-04-13 06:42:12: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/b4'
+2019-04-13 06:42:12: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/b6'
+2019-04-13 06:42:12: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/b8'
+2019-04-13 06:42:12: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/b9'
+2019-04-13 06:42:12: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/c8'
+2019-04-13 06:42:12: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/c9'
+2019-04-13 06:42:13: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/cb'
+2019-04-13 06:42:13: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/cc'
+2019-04-13 06:42:13: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/cd'
+2019-04-13 06:42:13: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d2'
+2019-04-13 06:42:13: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d3'
+2019-04-13 06:42:13: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d5'
+2019-04-13 06:42:13: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d6'
+2019-04-13 06:42:13: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d7'
+2019-04-13 06:42:13: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d8'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/db'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/df'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/e6'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/eb'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/ec'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/ed'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/ef'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/f0'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/f3'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/f4'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/f5'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/fb'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/fe'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/info'
+2019-04-13 06:42:14: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/pack'
+2019-04-13 06:42:15: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/refs'
+2019-04-13 06:42:15: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/refs/heads'
+2019-04-13 06:42:15: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/refs/remotes'
+2019-04-13 06:42:15: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/refs/remotes/origin'
+2019-04-13 06:42:15: Create Folder '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/refs/tags'
+2019-04-13 06:42:15: Copy New '/Users/markloessi/R_programing/.git/COMMIT_EDITMSG' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/COMMIT_EDITMSG' (43)
+2019-04-13 06:42:15: Copy New '/Users/markloessi/R_programing/.git/config' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/config' (334)
+2019-04-13 06:42:15: Copy New '/Users/markloessi/R_programing/.git/description' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/description' (73)
+2019-04-13 06:42:15: Copy New '/Users/markloessi/R_programing/.git/FETCH_HEAD' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/FETCH_HEAD' (98)
+2019-04-13 06:42:15: Copy New '/Users/markloessi/R_programing/.git/HEAD' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/HEAD' (23)
+2019-04-13 06:42:15: Copy New '/Users/markloessi/R_programing/.git/hooks/applypatch-msg.sample' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/hooks/applypatch-msg.sample' (478)
+2019-04-13 06:42:15: Copy New '/Users/markloessi/R_programing/.git/hooks/commit-msg.sample' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/hooks/commit-msg.sample' (896)
+2019-04-13 06:42:15: Copy New '/Users/markloessi/R_programing/.git/hooks/fsmonitor-watchman.sample' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/hooks/fsmonitor-watchman.sample' (3327)
+2019-04-13 06:42:15: Copy New '/Users/markloessi/R_programing/.git/hooks/post-update.sample' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/hooks/post-update.sample' (189)
+2019-04-13 06:42:15: Copy New '/Users/markloessi/R_programing/.git/hooks/pre-applypatch.sample' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/hooks/pre-applypatch.sample' (424)
+2019-04-13 06:42:15: Copy New '/Users/markloessi/R_programing/.git/hooks/pre-commit.sample' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/hooks/pre-commit.sample' (1642)
+2019-04-13 06:42:16: Copy New '/Users/markloessi/R_programing/.git/hooks/pre-push.sample' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/hooks/pre-push.sample' (1348)
+2019-04-13 06:42:16: Copy New '/Users/markloessi/R_programing/.git/hooks/pre-rebase.sample' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/hooks/pre-rebase.sample' (4898)
+2019-04-13 06:42:16: Copy New '/Users/markloessi/R_programing/.git/hooks/pre-receive.sample' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/hooks/pre-receive.sample' (544)
+2019-04-13 06:42:17: Copy New '/Users/markloessi/R_programing/.git/hooks/prepare-commit-msg.sample' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/hooks/prepare-commit-msg.sample' (1492)
+2019-04-13 06:42:18: Copy New '/Users/markloessi/R_programing/.git/hooks/update.sample' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/hooks/update.sample' (3610)
+2019-04-13 06:42:18: Copy New '/Users/markloessi/R_programing/.git/index' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/index' (9146)
+2019-04-13 06:42:19: Copy New '/Users/markloessi/R_programing/.git/info/exclude' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/info/exclude' (240)
+2019-04-13 06:42:19: Copy New '/Users/markloessi/R_programing/.git/logs/HEAD' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/logs/HEAD' (2988)
+2019-04-13 06:42:19: Copy New '/Users/markloessi/R_programing/.git/logs/refs/heads/master' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/logs/refs/heads/master' (2988)
+2019-04-13 06:42:19: Copy New '/Users/markloessi/R_programing/.git/logs/refs/remotes/origin/HEAD' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/logs/refs/remotes/origin/HEAD' (191)
+2019-04-13 06:42:19: Copy New '/Users/markloessi/R_programing/.git/logs/refs/remotes/origin/master' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/logs/refs/remotes/origin/master' (2448)
+2019-04-13 06:42:19: Copy New '/Users/markloessi/R_programing/.git/objects/01/05dda60ad937575670973f5d071742c98b2a4a' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/01/05dda60ad937575670973f5d071742c98b2a4a' (36519)
+2019-04-13 06:42:19: Copy New '/Users/markloessi/R_programing/.git/objects/01/a14010c653b4eb3f5f88ebb92a235e0c402426' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/01/a14010c653b4eb3f5f88ebb92a235e0c402426' (62)
+2019-04-13 06:42:19: Copy New '/Users/markloessi/R_programing/.git/objects/03/7c7624de91aea54553edc3866dab50f04d79a2' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/03/7c7624de91aea54553edc3866dab50f04d79a2' (436)
+2019-04-13 06:42:19: Copy New '/Users/markloessi/R_programing/.git/objects/05/8fd3aac89d3b0b2032fede05fc615746c8deac' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/05/8fd3aac89d3b0b2032fede05fc615746c8deac' (319)
+2019-04-13 06:42:20: Copy New '/Users/markloessi/R_programing/.git/objects/08/9ec028945f0848fd0043e04290bfa54b13c9cf' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/08/9ec028945f0848fd0043e04290bfa54b13c9cf' (58)
+2019-04-13 06:42:20: Copy New '/Users/markloessi/R_programing/.git/objects/08/da290e449de8be2719ad700ca8d2f19f98f9ff' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/08/da290e449de8be2719ad700ca8d2f19f98f9ff' (340)
+2019-04-13 06:42:20: Copy New '/Users/markloessi/R_programing/.git/objects/0c/2560e94fe0878b45cfd1727747032a94532a96' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/0c/2560e94fe0878b45cfd1727747032a94532a96' (218)
+2019-04-13 06:42:20: Copy New '/Users/markloessi/R_programing/.git/objects/0c/98f65c45bdde209b17dc0dce106203fc8e3ec1' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/0c/98f65c45bdde209b17dc0dce106203fc8e3ec1' (1040)
+2019-04-13 06:42:20: Copy New '/Users/markloessi/R_programing/.git/objects/10/da0af6ded3942aaab29394695d8e3e4b3e6254' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/10/da0af6ded3942aaab29394695d8e3e4b3e6254' (646)
+2019-04-13 06:42:21: Copy New '/Users/markloessi/R_programing/.git/objects/13/370da447d05c3a8d290993db4f6d9109e75a8f' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/13/370da447d05c3a8d290993db4f6d9109e75a8f' (160)
+2019-04-13 06:42:21: Copy New '/Users/markloessi/R_programing/.git/objects/16/24f92b23a1322f3fefb0049ce9de04eb858a0e' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/16/24f92b23a1322f3fefb0049ce9de04eb858a0e' (1089)
+2019-04-13 06:42:21: Copy New '/Users/markloessi/R_programing/.git/objects/18/5dac599eb94ab76443cc460e7d58f149924daa' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/18/5dac599eb94ab76443cc460e7d58f149924daa' (286)
+2019-04-13 06:42:21: Copy New '/Users/markloessi/R_programing/.git/objects/1a/32f369f5bcb4e35a9b98f7eb69a6f19f6a49be' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/1a/32f369f5bcb4e35a9b98f7eb69a6f19f6a49be' (881)
+2019-04-13 06:42:21: Copy New '/Users/markloessi/R_programing/.git/objects/1a/d541690bc8ed017add4434eb3ab8e4cebcc020' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/1a/d541690bc8ed017add4434eb3ab8e4cebcc020' (3159)
+2019-04-13 06:42:21: Copy New '/Users/markloessi/R_programing/.git/objects/1e/5364957ed5d4dbc95db9cf2e50de55e1e8c9c7' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/1e/5364957ed5d4dbc95db9cf2e50de55e1e8c9c7' (631)
+2019-04-13 06:42:21: Copy New '/Users/markloessi/R_programing/.git/objects/1f/aa26b0ad429ba4997c04543d7bbfc03106b745' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/1f/aa26b0ad429ba4997c04543d7bbfc03106b745' (54)
+2019-04-13 06:42:21: Copy New '/Users/markloessi/R_programing/.git/objects/1f/b5d75606f252f56d3413de28bbdb9320f920df' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/1f/b5d75606f252f56d3413de28bbdb9320f920df' (142388)
+2019-04-13 06:42:22: Copy New '/Users/markloessi/R_programing/.git/objects/20/4f6ef738ff0224745ae44fffcf6afaa4967279' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/20/4f6ef738ff0224745ae44fffcf6afaa4967279' (39)
+2019-04-13 06:42:22: Copy New '/Users/markloessi/R_programing/.git/objects/22/22240c5fb2c4822633821dfb10dbaa8b01c079' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/22/22240c5fb2c4822633821dfb10dbaa8b01c079' (442)
+2019-04-13 06:42:22: Copy New '/Users/markloessi/R_programing/.git/objects/23/14555fa5ac98ef1e5f9ad4641cc28842700ac4' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/23/14555fa5ac98ef1e5f9ad4641cc28842700ac4' (139)
+2019-04-13 06:42:22: Copy New '/Users/markloessi/R_programing/.git/objects/23/affd66b5361ec03b11a4de996b4e5e0d41cde6' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/23/affd66b5361ec03b11a4de996b4e5e0d41cde6' (248)
+2019-04-13 06:42:23: Copy New '/Users/markloessi/R_programing/.git/objects/24/6cdafe0acb68317c90933716c2db6535b0b43c' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/24/6cdafe0acb68317c90933716c2db6535b0b43c' (695070)
+2019-04-13 06:42:23: Copy New '/Users/markloessi/R_programing/.git/objects/27/cd46b950a44da5eabeb938506c28c13588b4d8' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/27/cd46b950a44da5eabeb938506c28c13588b4d8' (131859)
+2019-04-13 06:42:23: Copy New '/Users/markloessi/R_programing/.git/objects/2a/ea706ca8c1ae5d899ea65267cd6b581e507589' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/2a/ea706ca8c1ae5d899ea65267cd6b581e507589' (817)
+2019-04-13 06:42:23: Copy New '/Users/markloessi/R_programing/.git/objects/2b/a178eab7547324ee99c226a8479e55c437a1ff' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/2b/a178eab7547324ee99c226a8479e55c437a1ff' (587)
+2019-04-13 06:42:23: Copy New '/Users/markloessi/R_programing/.git/objects/31/9952f794e6585f4eb5469b906ccff63ffd3345' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/31/9952f794e6585f4eb5469b906ccff63ffd3345' (1821)
+2019-04-13 06:42:23: Copy New '/Users/markloessi/R_programing/.git/objects/34/1b6a47bf03db9296b5ebf10121cae2c5684d4f' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/34/1b6a47bf03db9296b5ebf10121cae2c5684d4f' (664)
+2019-04-13 06:42:23: Copy New '/Users/markloessi/R_programing/.git/objects/34/8b601c0f5744caed23f7b83861b18844c72615' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/34/8b601c0f5744caed23f7b83861b18844c72615' (711)
+2019-04-13 06:42:23: Copy New '/Users/markloessi/R_programing/.git/objects/3c/163492336f6dd52d359cf02c44d7be9547ee69' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/3c/163492336f6dd52d359cf02c44d7be9547ee69' (3404)
+2019-04-13 06:42:24: Copy New '/Users/markloessi/R_programing/.git/objects/41/1d0749f4be9495f646c121703c72b4c1d105a8' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/41/1d0749f4be9495f646c121703c72b4c1d105a8' (1167614)
+2019-04-13 06:42:25: Copy New '/Users/markloessi/R_programing/.git/objects/41/601cb0315a1ceea1ff1963de4db957d63efb26' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/41/601cb0315a1ceea1ff1963de4db957d63efb26' (422)
+2019-04-13 06:42:25: Copy New '/Users/markloessi/R_programing/.git/objects/44/5323de18552e8739ef21df4e0080834d2ebdb6' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/44/5323de18552e8739ef21df4e0080834d2ebdb6' (1949)
+2019-04-13 06:42:25: Copy New '/Users/markloessi/R_programing/.git/objects/45/d030ba37a3d9e1e49e41f7708cf15357adc0b4' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/45/d030ba37a3d9e1e49e41f7708cf15357adc0b4' (168)
+2019-04-13 06:42:25: Copy New '/Users/markloessi/R_programing/.git/objects/49/3d07bd09cfea3bdfc600c96b1ba60c84ed3c55' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/49/3d07bd09cfea3bdfc600c96b1ba60c84ed3c55' (2431)
+2019-04-13 06:42:25: Copy New '/Users/markloessi/R_programing/.git/objects/4a/f6665969473dde348bc6ca244338a6c8cd0947' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/4a/f6665969473dde348bc6ca244338a6c8cd0947' (221)
+2019-04-13 06:42:25: Copy New '/Users/markloessi/R_programing/.git/objects/4b/0a581f9ed3e08acca141c2d47c11ac7225824e' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/4b/0a581f9ed3e08acca141c2d47c11ac7225824e' (188)
+2019-04-13 06:42:25: Copy New '/Users/markloessi/R_programing/.git/objects/4b/bcbab98cdda2d528de5e18ed1650d1ef0621d1' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/4b/bcbab98cdda2d528de5e18ed1650d1ef0621d1' (159)
+2019-04-13 06:42:25: Copy New '/Users/markloessi/R_programing/.git/objects/4b/f45764a3d226bbca23d0f7ad048bb9fca98ff2' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/4b/f45764a3d226bbca23d0f7ad048bb9fca98ff2' (101476)
+2019-04-13 06:42:25: Copy New '/Users/markloessi/R_programing/.git/objects/4b/f55295dbb5ad7bf34a07174456642c61a1eec5' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/4b/f55295dbb5ad7bf34a07174456642c61a1eec5' (961)
+2019-04-13 06:42:25: Copy New '/Users/markloessi/R_programing/.git/objects/4e/c606372d52331f01aeea7959fba457290838e2' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/4e/c606372d52331f01aeea7959fba457290838e2' (2936)
+2019-04-13 06:42:25: Copy New '/Users/markloessi/R_programing/.git/objects/50/f7b7b4088790aab283a49a9340d7167a359fcc' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/50/f7b7b4088790aab283a49a9340d7167a359fcc' (2543)
+2019-04-13 06:42:25: Copy New '/Users/markloessi/R_programing/.git/objects/53/702d56fdbe2eae91cebe7c4f9ba62d2b53a4e2' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/53/702d56fdbe2eae91cebe7c4f9ba62d2b53a4e2' (62)
+2019-04-13 06:42:26: Copy New '/Users/markloessi/R_programing/.git/objects/57/75aa806528fae9264866c19e2762c5a7c2a632' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/57/75aa806528fae9264866c19e2762c5a7c2a632' (541)
+2019-04-13 06:42:26: Copy New '/Users/markloessi/R_programing/.git/objects/58/5a02269ec72f005fd17c3cadaa8a1bad00306a' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/58/5a02269ec72f005fd17c3cadaa8a1bad00306a' (342)
+2019-04-13 06:42:26: Copy New '/Users/markloessi/R_programing/.git/objects/5a/c40dcbb1b52a83fa3da83cd366106e444dc900' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/5a/c40dcbb1b52a83fa3da83cd366106e444dc900' (2928)
+2019-04-13 06:42:26: Copy New '/Users/markloessi/R_programing/.git/objects/5f/774a3ae7fcf7451f44136c08c2deca7e64f30f' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/5f/774a3ae7fcf7451f44136c08c2deca7e64f30f' (362)
+2019-04-13 06:42:26: Copy New '/Users/markloessi/R_programing/.git/objects/60/465cba008cce7e1610afd412ce2d78cdf7630d' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/60/465cba008cce7e1610afd412ce2d78cdf7630d' (2792)
+2019-04-13 06:42:26: Copy New '/Users/markloessi/R_programing/.git/objects/60/8968951740338c38e922cd73dfaff0b7559173' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/60/8968951740338c38e922cd73dfaff0b7559173' (159)
+2019-04-13 06:42:26: Copy New '/Users/markloessi/R_programing/.git/objects/60/b8a0c3cbddc53b67e57888a1c20dc77c1f4634' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/60/b8a0c3cbddc53b67e57888a1c20dc77c1f4634' (1227)
+2019-04-13 06:42:26: Copy New '/Users/markloessi/R_programing/.git/objects/63/81154bbc839df38ddd5323e560c2b6e1e0c557' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/63/81154bbc839df38ddd5323e560c2b6e1e0c557' (284)
+2019-04-13 06:42:26: Copy New '/Users/markloessi/R_programing/.git/objects/66/991e6a2c26562d2fd16248c5caa4e42555bf87' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/66/991e6a2c26562d2fd16248c5caa4e42555bf87' (1556)
+2019-04-13 06:42:26: Copy New '/Users/markloessi/R_programing/.git/objects/66/dd8f65ad8dfb3cfd1c0ea5ec898bbaaa097034' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/66/dd8f65ad8dfb3cfd1c0ea5ec898bbaaa097034' (3114)
+2019-04-13 06:42:26: Copy New '/Users/markloessi/R_programing/.git/objects/67/a8324ca38a1eb64b953995d3481324f481bef8' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/67/a8324ca38a1eb64b953995d3481324f481bef8' (1526)
+2019-04-13 06:42:26: Copy New '/Users/markloessi/R_programing/.git/objects/68/5d5c955670a78517e8b0df6755d654b67fc308' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/68/5d5c955670a78517e8b0df6755d654b67fc308' (122)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/6b/7f87d99aa7e4135b4bbe6f4158142c54128e00' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/6b/7f87d99aa7e4135b4bbe6f4158142c54128e00' (3627)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/71/f80c1854ad5b44f64d998d267972d9c4b36f0e' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/71/f80c1854ad5b44f64d998d267972d9c4b36f0e' (2189)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/72/0e8bcbdf4dbe5b1eb3d482228ef2ef520fe1c9' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/72/0e8bcbdf4dbe5b1eb3d482228ef2ef520fe1c9' (179)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/77/c2740e220d09002c9d8f7523f46c6d893a39b3' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/77/c2740e220d09002c9d8f7523f46c6d893a39b3' (3307)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/78/5451da6d85227cea2358c765629c1d3220b94a' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/78/5451da6d85227cea2358c765629c1d3220b94a' (3243)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/7a/14c05984d28ce197c8d2d4fd038d20b923d28d' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/7a/14c05984d28ce197c8d2d4fd038d20b923d28d' (2417)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/7a/7aea9761e63486128bef1526efbf52ae3d3c60' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/7a/7aea9761e63486128bef1526efbf52ae3d3c60' (509)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/7b/14d1d709fc2d5f88e6337dcd71d78e679709b6' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/7b/14d1d709fc2d5f88e6337dcd71d78e679709b6' (2019)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/7e/c0d8faaaf95311cfc57a10faf16cc4a391f9bb' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/7e/c0d8faaaf95311cfc57a10faf16cc4a391f9bb' (491)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/7e/f758d620b2ba17c842bab7298f58c0ad539718' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/7e/f758d620b2ba17c842bab7298f58c0ad539718' (160)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/7f/29fc7ab314aab44715566a82f54b63fd794c4a' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/7f/29fc7ab314aab44715566a82f54b63fd794c4a' (327)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/86/da4a5209205d9d320ed6397e0e019e97406cd0' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/86/da4a5209205d9d320ed6397e0e019e97406cd0' (77)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/87/f072d17cb04c3c825e1869089defd9f7b2a21c' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/87/f072d17cb04c3c825e1869089defd9f7b2a21c' (1587)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/88/b93eeaf8954a098f057198942da1ff21bcf6a5' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/88/b93eeaf8954a098f057198942da1ff21bcf6a5' (2175)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/8d/7c09bcfa79cf846557bda93c62c709bbaa5aee' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/8d/7c09bcfa79cf846557bda93c62c709bbaa5aee' (155)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/91/a124f19713052a64a5884dccd9e14335a7f162' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/91/a124f19713052a64a5884dccd9e14335a7f162' (117)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/92/ac91283d69131865d9d8e78186d1691474719e' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/92/ac91283d69131865d9d8e78186d1691474719e' (475)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/96/0bde23d1d79d04e6474171ed89c3394c6fb2f1' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/96/0bde23d1d79d04e6474171ed89c3394c6fb2f1' (1528)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/97/a3490e37c21ba4e45999438c7692d695b7f8c7' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/97/a3490e37c21ba4e45999438c7692d695b7f8c7' (451)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/99/357f4c9cbc97aa959d6d2ceee41604e3bdb5ab' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/99/357f4c9cbc97aa959d6d2ceee41604e3bdb5ab' (979)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/99/ac3f14c0ba5a7d91aa125b14f1e3546d025a26' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/99/ac3f14c0ba5a7d91aa125b14f1e3546d025a26' (160)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/99/b50dfde01870673e77268ef791b217fb7e751d' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/99/b50dfde01870673e77268ef791b217fb7e751d' (192)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/9d/36a4746ae29f3be141f476a9116018566d35ee' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/9d/36a4746ae29f3be141f476a9116018566d35ee' (4324)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/a0/c09f494cad57a911bd891ffcf456d5864e8423' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/a0/c09f494cad57a911bd891ffcf456d5864e8423' (160)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/a4/45dc4150bc75ec2af9c7bf54a2ad41cec7cd5a' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/a4/45dc4150bc75ec2af9c7bf54a2ad41cec7cd5a' (163)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/a5/123faa62ffe2185a23a047d2d0d6f39344c48a' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/a5/123faa62ffe2185a23a047d2d0d6f39344c48a' (909)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/a5/81ac109fd03497db920fc9120f066509c411ee' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/a5/81ac109fd03497db920fc9120f066509c411ee' (159)
+2019-04-13 06:42:27: Copy New '/Users/markloessi/R_programing/.git/objects/a6/9c9d1c2843e4307650f17e1687ec9063e1bd8f' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/a6/9c9d1c2843e4307650f17e1687ec9063e1bd8f' (1413)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/a8/f79b89d6bb0778ba73ccffc833240ed2c71617' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/a8/f79b89d6bb0778ba73ccffc833240ed2c71617' (148)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/a9/700f0c2569b9bd7db0904a63ce9a5c06802f17' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/a9/700f0c2569b9bd7db0904a63ce9a5c06802f17' (161)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/a9/c0a5a5b38ce411bfc923709c2627af45891d15' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/a9/c0a5a5b38ce411bfc923709c2627af45891d15' (101)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/ab/03de16eae06cd180baadd1f9b69576ce514cae' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/ab/03de16eae06cd180baadd1f9b69576ce514cae' (168)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/af/72cd1e08630e7f1faa991275b6795685b6d517' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/af/72cd1e08630e7f1faa991275b6795685b6d517' (214)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/b0/d85c78b47adb3481ee7501f5c25af3c4dddc1d' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/b0/d85c78b47adb3481ee7501f5c25af3c4dddc1d' (3319)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/b3/a1c09e960414e5ddd200455877c2e8204cad2d' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/b3/a1c09e960414e5ddd200455877c2e8204cad2d' (318)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/b4/bd14e2ed50aad9a838677a0a0a3df460deadc4' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/b4/bd14e2ed50aad9a838677a0a0a3df460deadc4' (1405)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/b6/7b9c2d605b779f05208b7909492fb93b91b6cf' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/b6/7b9c2d605b779f05208b7909492fb93b91b6cf' (54)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/b8/0c24231b6e3840c5db5cc2f5ad60a0ecb871b1' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/b8/0c24231b6e3840c5db5cc2f5ad60a0ecb871b1' (160)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/b9/d1b4fa76da79f32d8434c5cdc61983c36693a5' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/b9/d1b4fa76da79f32d8434c5cdc61983c36693a5' (2674)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/c8/05fdb1f03fd81b201cd7aa34d06022c1e58391' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/c8/05fdb1f03fd81b201cd7aa34d06022c1e58391' (525)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/c8/f50d69ab5d193cf3eb3b1bc940f9f9a15cfe6d' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/c8/f50d69ab5d193cf3eb3b1bc940f9f9a15cfe6d' (9926)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/c9/a60a0fd730d10c1d0258596947caaef5f0194b' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/c9/a60a0fd730d10c1d0258596947caaef5f0194b' (159)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/c9/fa46b1db7468e7f55e1b5ad7b91553b40c578c' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/c9/fa46b1db7468e7f55e1b5ad7b91553b40c578c' (2297)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/cb/57c7af380bed6783dabfaedb050d2d547b1fd9' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/cb/57c7af380bed6783dabfaedb050d2d547b1fd9' (144)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/cc/9c60327d133abdbccd40b0b479431701c586e0' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/cc/9c60327d133abdbccd40b0b479431701c586e0' (179)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/cd/1c928f4c72d7ea8f8a9c635c62d830e0a21454' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/cd/1c928f4c72d7ea8f8a9c635c62d830e0a21454' (211)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/cd/eaded96e003e26e523563d290d4d3be0aaa493' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/cd/eaded96e003e26e523563d290d4d3be0aaa493' (31)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/d2/6123b8610323c979de70ce35d9540c4d811b36' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d2/6123b8610323c979de70ce35d9540c4d811b36' (2016)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/d2/8a2e143c5f545e5d757019eb5240ab06ec9b55' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d2/8a2e143c5f545e5d757019eb5240ab06ec9b55' (2874309)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/d3/39dc8437f39469b3ef3279505466a43c26be52' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d3/39dc8437f39469b3ef3279505466a43c26be52' (225)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/d5/2350540099aa05ac08912699c439fe98876bac' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d5/2350540099aa05ac08912699c439fe98876bac' (1591)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/d5/e18a7cde679a64231ed82b2fd952dfde4e9b72' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d5/e18a7cde679a64231ed82b2fd952dfde4e9b72' (108)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/d6/c057e102d4995bcd9f2b1e86b7936306893f7f' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d6/c057e102d4995bcd9f2b1e86b7936306893f7f' (843)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/d7/5eb4d60a9b25e56534ee69802bfd74cfe04e29' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d7/5eb4d60a9b25e56534ee69802bfd74cfe04e29' (159)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/d7/c795166eaf22213a4b0dfa33c13bc20eda4fc3' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d7/c795166eaf22213a4b0dfa33c13bc20eda4fc3' (160)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/d8/f45a39bea846c0bf64ddf066b587a1e9331797' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/d8/f45a39bea846c0bf64ddf066b587a1e9331797' (2353)
+2019-04-13 06:42:28: Copy New '/Users/markloessi/R_programing/.git/objects/db/9299726b82e5d1c66e24b1c7d1f3fb3c74d2a7' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/db/9299726b82e5d1c66e24b1c7d1f3fb3c74d2a7' (201)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/df/bfeae5a1a62f01341220ef6ad1f5f33473fe41' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/df/bfeae5a1a62f01341220ef6ad1f5f33473fe41' (1007)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/e6/6a8178f42a5e44b29cd106a61a3baa8690156b' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/e6/6a8178f42a5e44b29cd106a61a3baa8690156b' (536)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391' (15)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/eb/16a22734a49b3768d36c8760a90da2f0040ec0' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/eb/16a22734a49b3768d36c8760a90da2f0040ec0' (199)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/ec/1371257bdf73279b81f7d2ae397cd825056afa' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/ec/1371257bdf73279b81f7d2ae397cd825056afa' (716)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/ec/19c0ea879188a67c62bb12f52e00caa7b2dfbf' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/ec/19c0ea879188a67c62bb12f52e00caa7b2dfbf' (919)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/ec/c86b6cf51a66a3bdd6447e91d58a227f3d9e7d' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/ec/c86b6cf51a66a3bdd6447e91d58a227f3d9e7d' (169255)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/ed/435fc76dca9aa6d80d4ab0592f2631ff0a1d9f' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/ed/435fc76dca9aa6d80d4ab0592f2631ff0a1d9f' (372)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/ef/1886cfc1a703c30cdb87708d4646d0d078ac1a' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/ef/1886cfc1a703c30cdb87708d4646d0d078ac1a' (669)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/ef/ca5f4e5f5bf00f372a792fa72fb34bde38e23a' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/ef/ca5f4e5f5bf00f372a792fa72fb34bde38e23a' (520)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/f0/13477b5b129ae3e82fb58a75d1589b899610f5' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/f0/13477b5b129ae3e82fb58a75d1589b899610f5' (1741)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/f0/5ea4a06e20ba59cf97af20a101d705aaba4956' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/f0/5ea4a06e20ba59cf97af20a101d705aaba4956' (832)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/f3/b67e53cfc67648605e7a29ebb7e0f585a526c7' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/f3/b67e53cfc67648605e7a29ebb7e0f585a526c7' (892)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/f4/88d9bd0bc6b401df8221e0336cf0081f97be7c' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/f4/88d9bd0bc6b401df8221e0336cf0081f97be7c' (384)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/f4/ff0d4bd675c876192c28ba8a0ca3312f0707f6' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/f4/ff0d4bd675c876192c28ba8a0ca3312f0707f6' (160)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/f5/191641c9049f1d96e603bded9c502dd923d554' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/f5/191641c9049f1d96e603bded9c502dd923d554' (3553)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/fb/605d8bce39aec1c2ef43b4b651add5f0a37d01' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/fb/605d8bce39aec1c2ef43b4b651add5f0a37d01' (1380)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/objects/fe/7d7846b34468c5d87cac74c3c90bdb74459ff4' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/objects/fe/7d7846b34468c5d87cac74c3c90bdb74459ff4' (3288)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/packed-refs' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/packed-refs' (114)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/refs/heads/master' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/refs/heads/master' (41)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/refs/remotes/origin/HEAD' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/refs/remotes/origin/HEAD' (32)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/refs/remotes/origin/master' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/refs/remotes/origin/master' (41)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.git/sourcetreeconfig' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.git/sourcetreeconfig' (174)
+2019-04-13 06:42:29: Copy New '/Users/markloessi/R_programing/.gitignore' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.gitignore' (130)
+2019-04-13 06:42:30: Copy New '/Users/markloessi/R_programing/.RData' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.RData' (426953)
+2019-04-13 06:42:30: Copy New '/Users/markloessi/R_programing/.Rhistory' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/.Rhistory' (16788)
+2019-04-13 06:42:30: Copy New '/Users/markloessi/R_programing/Box plot tutorial - Bonus Lecture.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Box plot tutorial - Bonus Lecture.R' (115)
+2019-04-13 06:42:30: Copy New '/Users/markloessi/R_programing/DwightVSDwayne_Accuracy.png' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/DwightVSDwayne_Accuracy.png' (135396)
+2019-04-13 06:42:30: Copy New '/Users/markloessi/R_programing/MyFirstScriptR.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/MyFirstScriptR.R' (15)
+2019-04-13 06:42:30: Copy New '/Users/markloessi/R_programing/P2-Mispriced-Diamonds.csv' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/P2-Mispriced-Diamonds.csv' (789016)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/P2-Section4-Homework-The-Challenge.pdf' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/P2-Section4-Homework-The-Challenge.pdf' (2888332)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/P2-Section4-The-Challenge.pdf' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/P2-Section4-The-Challenge.pdf' (746392)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/R- Chi-Squared Test.rtf' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/R- Chi-Squared Test.rtf' (414)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/R-ProgramingCertMarch2019.pdf' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/R-ProgramingCertMarch2019.pdf' (1184291)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/R_A-Z_Udemy_Mar2019Cert.pdf' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/R_A-Z_Udemy_Mar2019Cert.pdf' (1184291)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/R_Chi-SquaredTest.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/R_Chi-SquaredTest.R' (474)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/README.md' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/README.md' (23)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/rFieldGoals_xTicks.png' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/rFieldGoals_xTicks.png' (106679)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Rplot.png' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Rplot.png' (147297)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section1Lecture4 - Excited - install package ggplot2.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section1Lecture4 - Excited - install package ggplot2.R' (227)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section1Lecture5 - Podcast.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section1Lecture5 - Podcast.R' (174)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section2Lecture10 - The While Loop.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section2Lecture10 - The While Loop.R' (301)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section2Lecture11 - Using the Console.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section2Lecture11 - Using the Console.R' (44)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section2Lecture12 - The For Loop.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section2Lecture12 - The For Loop.R' (322)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section2Lecture13 - The If Statement.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section2Lecture13 - The If Statement.R' (533)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section2Lecture14 - Section Recap.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section2Lecture14 - Section Recap.R' (0)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section2Lecture15 - HOMEWORK - Law of Large Numbers.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section2Lecture15 - HOMEWORK - Law of Large Numbers.R' (689)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section2Lecture16.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section2Lecture16.R' (47)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section2Lecture6 - Types of data.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section2Lecture6 - Types of data.R' (525)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section2Lecture7 - Using Variables.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section2Lecture7 - Using Variables.R' (373)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section2Lecture9 - Logical Variables and Operators.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section2Lecture9 - Logical Variables and Operators.R' (441)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section3Lecture17 - What is a Vector.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section3Lecture17 - What is a Vector.R' (274)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section3Lecture18 - Let's Create some Vectors.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section3Lecture18 - Let's Create some Vectors.R' (740)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section3Lecture19 - Using [] brackets.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section3Lecture19 - Using [] brackets.R' (511)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section3Lecture20 - Vectorized Operations.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section3Lecture20 - Vectorized Operations.R' (170)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section3Lecture21 - The Power of Vectorized Operations.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section3Lecture21 - The Power of Vectorized Operations.R' (997)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section3Lecture22 - Functions in R.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section3Lecture22 - Functions in R.R' (1841)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section3Lecture23 - Packages in R.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section3Lecture23 - Packages in R.R' (1441)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section3Lecture24 - Section Recap.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section3Lecture24 - Section Recap.R' (40)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section3Lecture25 - HOMEWORK - Financial Statement Analysis.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section3Lecture25 - HOMEWORK - Financial Statement Analysis.R' (2200)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section3Lecture25 - Homework-Data.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section3Lecture25 - Homework-Data.R' (269)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section4Dataset - BasketballData.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Dataset - BasketballData.R' (8571)
+2019-04-13 06:42:32: Copy New '/Users/markloessi/R_programing/Section4Lecture26 - Welcome.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture26 - Welcome.R' (0)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture27 - Project Brief - Basketball Trends.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture27 - Project Brief - Basketball Trends.R' (156)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture28 - Matrices.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture28 - Matrices.R' (284)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture29 - Building a Matrix.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture29 - Building a Matrix.R' (768)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture30 - Naming Dimensions.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture30 - Naming Dimensions.R' (305)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture31 - Colnames() and Rownames().R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture31 - Colnames() and Rownames().R' (1076)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture32 - Maxtrix Operations.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture32 - Maxtrix Operations.R' (494)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture33 - Visualization with Matplot().R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture33 - Visualization with Matplot().R' (2187)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture34 - Subsetting.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture34 - Subsetting.R' (1082)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture35 - Visualizing Subsets.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture35 - Visualizing Subsets.R' (1799)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture36 - Creating your first Function.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture36 - Creating your first Function.R' (1902)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture37 - Basketball Insights.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture37 - Basketball Insights.R' (1191)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture38 - Section Recap.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture38 - Section Recap.R' (69)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture39 - Homework-Data.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture39 - Homework-Data.R' (3746)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture39 - Homework-FillInTheBlanks.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture39 - Homework-FillInTheBlanks.R' (4102)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section4Lecture39 - Quiz interesting question.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section4Lecture39 - Quiz interesting question.R' (96)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section5 - P2-Demographic-Data.csv' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5 - P2-Demographic-Data.csv' (8360)
+2019-04-13 06:42:33: Copy New '/Users/markloessi/R_programing/Section5Lecture40 - Intro to Dataframes.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture40 - Intro to Dataframes.R' (153)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture41 - Project Brief - Demographic Analysis.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture41 - Project Brief - Demographic Analysis.R' (1011)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture42 - Importing Data into R.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture42 - Importing Data into R.R' (565)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture43 - Exploring your Dataset.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture43 - Exploring your Dataset.R' (599)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture44 - Using the $ Sign.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture44 - Using the $ Sign.R' (1184)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture45 - Basic operations with a Data Frame.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture45 - Basic operations with a Data Frame.R' (2153)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture46 - Filtering a Data Frame.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture46 - Filtering a Data Frame.R' (3294)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture47 - Introduction to QPLOT.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture47 - Introduction to QPLOT.R' (3514)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture48 - Visualization with QPLOT - Part I.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture48 - Visualization with QPLOT - Part I.R' (3514)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture49 - Building Dataframes.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture49 - Building Dataframes.R' (4572)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture49 - CountryRegionVectors.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture49 - CountryRegionVectors.R' (5742)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture50 - Merging Dataframes.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture50 - Merging Dataframes.R' (5087)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture51 - Visualizing with QPLOT - Part II.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture51 - Visualizing with QPLOT - Part II.R' (5895)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture52 - Section Recap.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture52 - Section Recap.R' (52)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture53 - Homework-Dataset.csv' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture53 - Homework-Dataset.csv' (12822)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture53 - Homework-FillInTheBlanks.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture53 - Homework-FillInTheBlanks.R' (3261)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section5Lecture53 - Homework-Vectors.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section5Lecture53 - Homework-Vectors.R' (7663)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section6-Homework-Data.csv' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6-Homework-Data.csv' (80978)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section6Datafile - Movie-Ratings.csv' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Datafile - Movie-Ratings.csv' (21781)
+2019-04-13 06:42:34: Copy New '/Users/markloessi/R_programing/Section6Lecture55-56 - Project Brief & Grammar of grahics - Movie Ratings.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Lecture55-56 - Project Brief & Grammar of grahics - Movie Ratings.R' (649)
+2019-04-13 06:42:36: Copy New '/Users/markloessi/R_programing/Section6Lecture57 - What is a factor.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Lecture57 - What is a factor.R' (1788)
+2019-04-13 06:42:36: Copy New '/Users/markloessi/R_programing/Section6Lecture58 - Asethetics.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Lecture58 - Asethetics.R' (1959)
+2019-04-13 06:42:36: Copy New '/Users/markloessi/R_programing/Section6Lecture59 - Plotting with Layers.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Lecture59 - Plotting with Layers.R' (2311)
+2019-04-13 06:42:36: Copy New '/Users/markloessi/R_programing/Section6Lecture60 - Overriding Aethetics.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Lecture60 - Overriding Aethetics.R' (2888)
+2019-04-13 06:42:36: Copy New '/Users/markloessi/R_programing/Section6Lecture61 - Mapping vs Setting.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Lecture61 - Mapping vs Setting.R' (3753)
+2019-04-13 06:42:36: Copy New '/Users/markloessi/R_programing/Section6Lecture62 - Histograms & Density Charts (geometries).R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Lecture62 - Histograms & Density Charts (geometries).R' (5157)
+2019-04-13 06:42:36: Copy New '/Users/markloessi/R_programing/Section6Lecture63 - Starting Layer Tips.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Lecture63 - Starting Layer Tips.R' (5164)
+2019-04-13 06:42:36: Copy New '/Users/markloessi/R_programing/Section6Lecture64 - Statistical Transformations.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Lecture64 - Statistical Transformations.R' (6337)
+2019-04-13 06:42:37: Copy New '/Users/markloessi/R_programing/Section6Lecture65 - Using Facets.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Lecture65 - Using Facets.R' (7401)
+2019-04-13 06:42:37: Copy New '/Users/markloessi/R_programing/Section6Lecture66 - Coordinates.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Lecture66 - Coordinates.R' (8277)
+2019-04-13 06:42:37: Copy New '/Users/markloessi/R_programing/Section6Lecture67 - Perfecting by Adding Themes.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Lecture67 - Perfecting by Adding Themes.R' (10105)
+2019-04-13 06:42:37: Copy New '/Users/markloessi/R_programing/Section6Lecture68 - Section Recap.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Lecture68 - Section Recap.R' (10452)
+2019-04-13 06:42:37: Copy New '/Users/markloessi/R_programing/Section6Lecture69 - Homework-FillInTheBlanks.R' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/Section6Lecture69 - Homework-FillInTheBlanks.R' (4037)
+2019-04-13 06:42:37: Copy New '/Users/markloessi/R_programing/TreemapPlaying.rtf' -> '/Volumes/128 GB SD/StudyStorage-SD/R_programingBackup/TreemapPlaying.rtf' (1610)
+2019-04-13 06:42:37: == Sync Complete. Time: 00:00:29, Speed: 488.2 KB/s, OK: 360, Errors: 0
+2019-04-13 06:42:37: 
