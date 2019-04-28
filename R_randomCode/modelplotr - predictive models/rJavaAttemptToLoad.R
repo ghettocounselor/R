@@ -18,6 +18,8 @@
 install.packages("h2o", repos=(c("http://h2o-release.s3.amazonaws.com/h2o/rel-jacobi/2/R", getOption("repos"))))
 library('h2o')
 
+Java_home='Library/Java/JavaVirtualMachines/jdk1.8.0_212'
+Java_home
 localH2O = h2o.init(ip = "localhost", port = 54321, name = NA_character_,
          startH2O = TRUE, forceDL = FALSE, enable_assertions = TRUE,
          license = NULL, nthreads = -1, max_mem_size = NULL,

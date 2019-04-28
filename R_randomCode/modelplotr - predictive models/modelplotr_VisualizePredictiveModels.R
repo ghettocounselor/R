@@ -117,6 +117,8 @@ library(h2o)
 localH2O = h2o.init()
 demo(h2o.kmeans)
 
+h2o.init()
+
 h2o.init(ip = "localhost", port = 54321, name = NA_character_,
          startH2O = TRUE, forceDL = FALSE, enable_assertions = TRUE,
          license = NULL, nthreads = -1, max_mem_size = NULL,
