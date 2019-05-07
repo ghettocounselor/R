@@ -15,11 +15,14 @@
 #Marks-MacBook-Air:~ markloessi$ ~$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 #-bash: ~$: command not found
 
-install.packages("h2o", repos=(c("http://h2o-release.s3.amazonaws.com/h2o/rel-jacobi/2/R", getOption("repos"))))
+# install.packages("h2o", repos=(c("http://h2o-release.s3.amazonaws.com/h2o/rel-jacobi/2/R", getOption("repos"))))
 library('h2o')
+# https://www.rdocumentation.org/packages/base/versions/3.5.3/topics/Sys.setenv
+Sys.setenv(Java_home="\\Library\\Java\\JavaVirtualMachines\\jdk1.8.0_212")
+Sys.getenv("Java_home")
 
-Java_home='Library/Java/JavaVirtualMachines/jdk1.8.0_212'
-Java_home
+h2o.init()
+
 localH2O = h2o.init(ip = "localhost", port = 54321, name = NA_character_,
          startH2O = TRUE, forceDL = FALSE, enable_assertions = TRUE,
          license = NULL, nthreads = -1, max_mem_size = NULL,
